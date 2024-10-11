@@ -162,7 +162,6 @@ The label of `checkoutservice` means that the label `return` fault of `checkouts
 ```
 
 ## Reference
-Please cite our FSE'23 paper if you find this work is helpful. 
 ```
 @inproceedings{nezha,
   title={Nezha: Interpretable Fine-Grained Root Causes Analysis for Microservices on Multi-Modal Observability Data},
