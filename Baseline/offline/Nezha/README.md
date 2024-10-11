@@ -1,6 +1,6 @@
 # Nezha
 
-This repository is the basic implementation of our publication in `FSE'23` conference paper [Nezha: Interpretable Fine-Grained Root Causes Analysis for Microservices on Multi-Modal Observability Data](./FSE2023_Nezha.pdf)
+This repository is the basic implementation of `FSE'23` conference paper [Nezha: Interpretable Fine-Grained Root Causes Analysis for Microservices on Multi-Modal Observability Data](./FSE2023_Nezha.pdf)
 
 ## Description
 
@@ -162,7 +162,6 @@ The label of `checkoutservice` means that the label `return` fault of `checkouts
 ```
 
 ## Reference
-Please cite our FSE'23 paper if you find this work is helpful. 
 ```
 @inproceedings{nezha,
   title={Nezha: Interpretable Fine-Grained Root Causes Analysis for Microservices on Multi-Modal Observability Data},
